@@ -1,6 +1,6 @@
 
-// Murat Þenol 		 150117039
-// Ahmet Faruk Çolak 150116039
+// Murat Åženol 
+// Ahmet Faruk Ã‡olak 
 
 import javafx.stage.Stage;
 import javafx.util.Duration;
